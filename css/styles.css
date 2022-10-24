@@ -4,6 +4,12 @@ body{
     font-family:"Roboto", sans-serif;
     letter-spacing: 0.03em;
 }
+.nav{
+    list-style: none;
+}
+.contacts{
+    list-style: none;
+}
 .plus-list{
     list-style:none;
 }
